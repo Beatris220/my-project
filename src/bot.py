@@ -4,7 +4,6 @@ from game.quest_system import generate_daily_quest
 from game.npc_fsm import npc_react
 from game.stats_tracker import update_stats, get_daily_summary
 import time
-import json
 
 # Хранилище состояний игроков
 players = {}
