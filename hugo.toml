@@ -1,0 +1,35 @@
+baseURL = "https://example.org"
+languageCode = "ru-ru"
+title = "Проектная деятельность | Сайт проекта"
+theme = "mainroad"
+
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "О проекте"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    name = "Участники"
+    url = "/team/"
+    weight = 30
+  [[menu.main]]
+    name = "Журнал"
+    url = "/posts/"
+    weight = 40
+  [[menu.main]]
+    name = "Ресурсы"
+    url = "/resources/"
+    weight = 50
+
+[params]
+  customCSS = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

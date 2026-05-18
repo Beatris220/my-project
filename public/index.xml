@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Домашняя страница: Аннотация проекта on Проектная деятельность | Сайт проекта</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Домашняя страница: Аннотация проекта on Проектная деятельность | Сайт проекта</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Наша Команда</title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;h2&gt;Состав рабочей группы проекта&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Разработка столь масштабного проекта потребовала четкого разделения обязанностей среди &lt;b&gt;26 участников&lt;/b&gt; группы. Мы разделились на эффективные рабочие кластеры:&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;p&gt;    &lt;li&gt;&lt;b&gt;Руководство и игровой дизайн:&lt;/b&gt; Плешков Кирилл, Самодуровский Вячеслав — общая архитектура игрового цикла, баланс механик и QTE-активностей.&lt;/li&gt;&lt;/p&gt;&#xA;&lt;p&gt;    &lt;li&gt;&lt;b&gt;Группа программирования:&lt;/b&gt; Николаенков Дмитрий, Плетнева Анна, Попова Елизавета, Субботина Валерия — написание кода систем взаимодействия на C# в Unity.&lt;/li&gt;&lt;/p&gt;&#xA;&lt;p&gt;    &lt;li&gt;&lt;b&gt;3D-Графика и локации:&lt;/b&gt; Бирюков Артём, Гагарина Екатерина, Гарченко Дарья, Кныш София, Смирнова Дарья — моделирование локаций &amp;ldquo;Квартира&amp;rdquo; и &amp;ldquo;Метро&amp;rdquo;.&lt;/li&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О проекте</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3&gt;Цели и ключевые задачи&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Основная цель команды — разработка &lt;b&gt;высокотехнологичного играбельного прототипа&lt;/b&gt; инди-симулятора с проработанным игровым циклом, внутренней экономикой и интерактивным интерфейсом пользователя.&lt;/p&gt;&#xD;&#xA;&lt;hr&gt;&#xD;&#xA;&lt;h3&gt;Актуальность и уникальность проекта&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;В современной геймдев-индустрии стремительно растет спрос на сатирические симуляторы повседневности. Наш продукт успешно выделяется на фоне конкурентов благодаря:&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;    &lt;li&gt;&lt;b&gt;Mixed Media стилистике&lt;/b&gt; (сочетание 2D и 3D пространства)&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;b&gt;Проработанной системе диалогов&lt;/b&gt; с нелинейным развитием сюжета&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;b&gt;Реалистичной механике выносливости&lt;/b&gt; главного героя&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Полезные resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
+      <description>&lt;h2&gt;Источники и материалы проекта&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Список платформ и регламентов, используемых в ходе аналитики и разработки игрового симулятора:&lt;/p&gt;&#xD;&#xA;&lt;ol&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        &lt;b&gt;&lt;a href=&#34;https://mospolytech.ru&#34; target=&#34;_blank&#34;&gt;Центр проектной деятельности Московского Политеха&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&#xD;&#xA;        &lt;i&gt;Сюда вы можете вставить ссылку на страницу вашего проекта в базе вуза, если она есть.&lt;/i&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        &lt;b&gt;&lt;a href=&#34;https://unity3d.com&#34; target=&#34;_blank&#34;&gt;Официальная документация Unity&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&#xD;&#xA;        &lt;i&gt;Сюда можно вставить точный адрес статьи по физике, коду или Billboard, которую читали ваши программисты.&lt;/i&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        &lt;b&gt;&lt;a href=&#34;https://fips.ru&#34; target=&#34;_blank&#34;&gt;Федеральный институт промышленной собственности (ФИПС)&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&#xD;&#xA;        &lt;i&gt;Сюда можно вставить ссылку на конкретный открытый реестр патентов или ГОСТ из вашей пояснительной записки.&lt;/i&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        &lt;b&gt;&lt;a href=&#34;https://steamgames.com&#34; target=&#34;_blank&#34;&gt;Сообщество Steam Direct&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&#xD;&#xA;        &lt;i&gt;Сюда можно вставить ссылку на правила публикации инди-игр или требования к системным параметрам в Steam.&lt;/i&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Этап 1: Инициация проекта и патентные исследования</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&lt;p&gt;Проведен детальный анализ рынка инди-симуляторов повседневности. На основе полученных данных сформирована концепция игры &lt;b&gt;«Симулятор раздачи листовок»&lt;/b&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Проведены патентные исследования по &lt;b&gt;ГОСТ 15.011–96&lt;/b&gt;, подтвердившие полную юридическую чистоту наших механик. Сформирован совместный репозиторий на GitHub для контроля версий кодовой базы.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Этап 3: Финализация MVP и подготовка к защите</title>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post3/</guid>
+      <description>&lt;p&gt;Интегрированы алгоритмы QTE-ивентов для прокачки выносливости промоутера и формулы изменения параметров передвижения персонажа.&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Графические материалы этапа&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;В рамках аналитического отчета была сформирована смета фактических затрат на разработку игрового прототипа:&lt;/p&gt;&#xD;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/schema.png&#34; alt=&#34;Смета фактических затрат проекта&#34; width=&#34;500&#34;&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;hr&gt;&#xD;&#xA;&lt;h3&gt;Медиаинформация: Демонстрация геймплея MVP&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Ниже представлен видеоотчет с демонстрацией работы игровых механик (Billboard-эффект и радиальное меню взаимодействия) на движке Unity:&lt;/p&gt;&#xD;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;    &lt;video width=&#34;560&#34; height=&#34;315&#34; controls&gt;&#xD;&#xA;        &lt;source src=&#34;http://localhost:1313/gameplay.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;        Ваш браузер не поддерживает встроенное видео.&#xD;&#xA;    &lt;/video&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Проект успешно апробирован на Дне открытых дверей Московского Политеха. Наша команда полностью подготовила проект к защите!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Этап 2: Разработка архитектуры и Mixed Media</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>&lt;p&gt;Художественный отдел завершил моделирование стартовых локаций &#34;Квартира&#34; в стиле СССР и &#34;Метро&#34;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Программисты успешно реализовали на движке Unity базовый скрипт &lt;b&gt;Billboard&lt;/b&gt; для корректного отображения двухмерных спрайтов персонажей в трехмерном пространстве (стилистика &lt;b&gt;Mixed Media&lt;/b&gt;).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
