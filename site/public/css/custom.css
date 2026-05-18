@@ -1,53 +1,52 @@
-/* Делаем фон всего сайта глубоким темным */
-body, .wrapper, .main, .content, .container {
-    background-color: #121214 !important;
-    background: #121214 !important;
+/* ОБЩИЕ СТИЛИ САЙТА */
+body {
+    background-color: #fcfbfa; /* Мягкий кремово-белый фон вместо агрессивного темного */
+    color: #2b2d42;            /* Глубокий графитовый цвет текста (читается идеально) */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;          /* Комфортное расстояние между строками */
+    margin: 0;
+    padding: 0;
 }
 
-/* Принудительно красим ВЕСЬ обычный текст в ярко-белый цвет */
-p, li, td, span, div, .content, .article__content {
-    color: #ffffff !important;
-    font-size: 16px !important;
-    line-height: 1.6 !important;
+/* ЗАГОЛОВКИ (сделаем их более выразительными) */
+h1, h2, h3, h4, h5, h6 {
+    color: #1d1e2c;            /* Чуть более темный оттенок для заголовков */
+    font-weight: 700;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
-/* Крупные заголовки делаем белоснежными */
-h1, h2, h3, .logo__title, .logo__link, .page__title, .logo__text {
-    color: #ffffff !important;
-    font-weight: 700 !important;
-}
-
-/* Делаем жирный текст неоново-желтым, чтобы он сразу бросался в глаза */
-strong, b {
-    color: #ffd166 !important;
-    font-weight: 800 !important;
-}
-
-/* Ссылки подсвечиваем бирюзовым цветом */
+/* ССЫЛКИ И НАВИГАЦИЯ */
 a {
-    color: #06d6a0 !important;
-    font-weight: 600 !important;
+    color: #4a6fa5;            /* Приглушенный синий цвет для ссылок */
+    text-decoration: none;     /* Убираем старомодное подчеркивание */
+    transition: color 0.2s ease-in-out;
 }
+
 a:hover {
-    color: #ffd166 !important;
+    color: #2b4570;            /* Темнеет при наведении мышки */
+    text-decoration: underline; /* Подчеркивание появляется только при наведении */
 }
 
-/* Красивые скругленные рамки для видео и картинок */
-img, video {
-    border-radius: 12px !important;
-    border: 2px solid #29292e !important;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6) !important;
+/* КНОПКИ (если они у вас есть) */
+button, .btn {
+    background-color: #4a6fa5; /* Синий фон кнопки */
+    color: #ffffff;            /* Белый текст на кнопке */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;        /* Аккуратное скругление углов */
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
 }
 
-/* Аккуратная таблица участников */
-table {
-    border: 1px solid #29292e !important;
-    background-color: #1a1a1e !important;
+button:hover, .btn:hover {
+    background-color: #2b4570; /* Кнопка темнеет при наведении */
 }
-th {
-    background-color: #29292e !important;
-    color: #ffd166 !important;
-}
-td {
-    border-bottom: 1px solid #29292e !important;
+
+/* КОНТЕЙНЕР (чтобы текст не лип к краям экрана) */
+.container, main {
+    max-width: 800px;          /* Оптимальная ширина для чтения */
+    margin: 0 auto;            /* Центрирование по экрану */
+    padding: 20px;
 }
