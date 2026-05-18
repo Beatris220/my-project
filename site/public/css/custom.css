@@ -1,0 +1,52 @@
+/* ОБЩИЕ СТИЛИ САЙТА */
+body {
+    background-color: #fcfbfa; /* Мягкий кремово-белый фон вместо агрессивного темного */
+    color: #2b2d42;            /* Глубокий графитовый цвет текста (читается идеально) */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;          /* Комфортное расстояние между строками */
+    margin: 0;
+    padding: 0;
+}
+
+/* ЗАГОЛОВКИ (сделаем их более выразительными) */
+h1, h2, h3, h4, h5, h6 {
+    color: #1d1e2c;            /* Чуть более темный оттенок для заголовков */
+    font-weight: 700;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+/* ССЫЛКИ И НАВИГАЦИЯ */
+a {
+    color: #4a6fa5;            /* Приглушенный синий цвет для ссылок */
+    text-decoration: none;     /* Убираем старомодное подчеркивание */
+    transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+    color: #2b4570;            /* Темнеет при наведении мышки */
+    text-decoration: underline; /* Подчеркивание появляется только при наведении */
+}
+
+/* КНОПКИ (если они у вас есть) */
+button, .btn {
+    background-color: #4a6fa5; /* Синий фон кнопки */
+    color: #ffffff;            /* Белый текст на кнопке */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;        /* Аккуратное скругление углов */
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover, .btn:hover {
+    background-color: #2b4570; /* Кнопка темнеет при наведении */
+}
+
+/* КОНТЕЙНЕР (чтобы текст не лип к краям экрана) */
+.container, main {
+    max-width: 800px;          /* Оптимальная ширина для чтения */
+    margin: 0 auto;            /* Центрирование по экрану */
+    padding: 20px;
+}
