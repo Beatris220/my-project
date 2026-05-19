@@ -1,7 +1,7 @@
-baseURL = "https://example.org"
+baseURL = "https://beatris220.github.io/my-project/"
 languageCode = "ru-ru"
 title = "Проектная деятельность | Сайт проекта"
-theme = "mainroad"
+theme = "PaperMod"
 
 [menu]
   [[menu.main]]
@@ -26,10 +26,11 @@ theme = "mainroad"
     weight = 50
 
 [params]
-  customCSS = ["css/custom.css"]
+  defaultTheme = "dark"
+  disableSpecial1stPost = true
+  ShowPostNavLinks = true
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
