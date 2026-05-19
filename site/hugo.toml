@@ -2,8 +2,7 @@ baseURL = "https://beatris220.github.io/my-project/"
 languageCode = "ru-ru"
 title = "Проектная деятельность | Сайт проекта"
 theme = "PaperMod"
-relativeURLs = true
-canonifyURLs = true   
+relativeURLs = true 
 
 [menu]
   [[menu.main]]
