@@ -1,13 +1,7 @@
 baseURL = "https://beatris220.github.io/my-project/"
 languageCode = "ru-ru"
-defaultContentLanguage = "ru"
 title = "Проектная деятельность | Сайт проекта"
-theme = "mainroad"
-
-[languages]
-  [languages.ru]
-    languageName = "Русский"
-    weight = 1
+theme = "PaperMod"
 
 [menu]
   [[menu.main]]
@@ -32,9 +26,7 @@ theme = "mainroad"
     weight = 50
 
 [params]
-  style = "dark"
-  color = "blue"
-  sidebar = false
+  defaultTheme = "dark"
 
 [markup]
   [markup.goldmark]
