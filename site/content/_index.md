@@ -7,7 +7,7 @@ draft: false
 <div style="background: #f8f9fa; padding: 35px; border-radius: 12px; margin-bottom: 35px; border: 2px solid #e5e5e5; text-align: center;">
 <h1 style="color: #111111 !important; margin-top: 0; font-size: 34px; letter-spacing: 1px; font-weight: 800; line-height: 1.3;">СИМУЛЯТОР РАЗДАЧИ ЛИСТОВОК</h1>
 <p style="font-style: italic; color: #555555 !important; margin-bottom: 20px; font-weight: 500;">Официальный сайт студенческого проекта | Московский Политех</p>
-<img src="/main-art.png" alt="Главный арт игры" style="max-width: 100%; border-radius: 8px; box-shadow: 0 12px 30px rgba(0,0,0,0.15); border: 2px solid #e5e5e5;">
+<img src="main-art.png" alt="Главный арт игры" style="max-width: 100%; border-radius: 8px; box-shadow: 0 12px 30px rgba(0,0,0,0.15); border: 2px solid #e5e5e5;">
 </div>
 
 <h2 style="border-bottom: 2px solid #e5e5e5; padding-bottom: 10px; color: #111111 !important; font-size: 26px; font-weight: 800; margin-top: 30px;">Аннотация проекта</h2>
