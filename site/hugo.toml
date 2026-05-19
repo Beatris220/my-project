@@ -18,7 +18,7 @@ theme = "PaperMod"
     weight = 30
   [[menu.main]]
     name = "Журнал"
-    url = "/journal/"
+    url = "/posts/"
     weight = 40
   [[menu.main]]
     name = "Ресурсы"

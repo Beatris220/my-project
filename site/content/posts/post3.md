@@ -10,7 +10,7 @@ draft: false
 <p style="font-size: 15px; color: #444444 !important; line-height: 1.6; margin-bottom: 20px;">В рамках планирования и контроля разработки проекта командой была сформирована детальная <b>диаграмма Ганта (календарный план-график работ)</b>, отражающая все стадии создания симулятора от концепта до финализации отчетных материалов:</p>
 
 <p align="center">
-<img src="/game-schema.png" alt="Диаграмма Ганта проекта" style="max-width: 100%; border-radius: 8px; border: 2px solid #e5e5e5; box-shadow: 0 8px 24px rgba(0,0,0,0.06);">
+<img src="game-schema.png" alt="Диаграмма Ганта проекта" style="max-width: 100%; border-radius: 8px; border: 2px solid #e5e5e5; box-shadow: 0 8px 24px rgba(0,0,0,0.06);">
 </p>
 
 <hr style="border: 0; border-top: 1px solid #e5e5e5; margin: 35px 0;">
@@ -20,7 +20,7 @@ draft: false
 
 <p align="center">
 <video width="560" height="315" controls style="border-radius: 8px; border: 2px solid #e5e5e5; box-shadow: 0 8px 24px rgba(0,0,0,0.06);">
-<source src="/gameplay.mp4" type="video/mp4">
+<source src="gameplay.mp4" type="video/mp4">
 Ваш браузер не поддерживает встроенное видео.
 </video>
 </p>
