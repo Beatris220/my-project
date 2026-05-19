@@ -2,7 +2,7 @@
 
 **Разработчики:** Козырева Елизавета, Чиркова Вероника  
 **Направление:** Проектная практика, Вариативная часть  
-**Стек:** Python 3, `requests`, Telegram Bot API (HTTP), Git, HTML/CSS  
+**Стек:** Python 3, `requests`, Git, HTML/CSS  
 
 ---
 
