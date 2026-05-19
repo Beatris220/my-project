@@ -1,7 +1,7 @@
 baseURL = "https://example.org"
 languageCode = "ru-ru"
 title = "Проектная деятельность | Сайт проекта"
-theme = "mainroad"
+theme = "PaperMod"
 
 [menu]
   [[menu.main]]
@@ -25,11 +25,24 @@ theme = "mainroad"
     url = "/resources/"
     weight = 50
 
-[params]
-  customCSS = ["css/custom.css"]
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
+[params]
+  # Включаем чтение нашего CSS файла из папки static/css/
+  customCSS = ["css/custom.css"]
+  
+  # Настройки отображения постов
+  ShowPostNavLinks = true
+  disableSpecial1stPost = true 
+  
+  # Оставляем тему светлой по умолчанию, чтобы работала кнопка переключения!
+  defaultTheme = "light" 
+[languages]
+  [languages.ru]
+    languageName = "Russian"
+    weight = 1
+    [languages.ru.titleCustom]
+      posts = "Журнал прогресса"

@@ -1,0 +1,46 @@
+/* РОДНЫЕ ПЕРЕМЕННЫЕ ЦВЕТОВ PAPERMOD ДЛЯ ТЕМНОЙ ТЕМЫ */
+
+.dark {
+    /* Глубокий океанический фон сайта */
+    --theme: #0d161b !important; 
+    
+    /* Текст цвета старой бумаги/пергамента */
+    --primary: #e2d9c2 !important; 
+    
+    /* Второстепенный текст и даты */
+    --secondary: #8ba3b0 !important; 
+    
+    /* Цвет рамок и мелких линий */
+    --border: rgba(212, 175, 55, 0.2) !important; 
+    
+    /* Мягкий темно-синий фон для карточек этапов */
+    --code-bg: #16252e !important; 
+    
+    /* Основной контент */
+    --hljs-bg: #16252e !important;
+}
+
+/* Принудительно красим заголовки в пафосное золото Восторга */
+.dark h1, .dark h2, .dark h3, .dark .entry-title, .dark .post-title {
+    color: #d4af37 !important;
+    font-family: "Georgia", serif !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+}
+
+/* Красим карточки постов в темно-синий цвет */
+.dark .entry-card, .dark .entry-wrapper {
+    background-color: #16252e !important;
+    border: 1px solid rgba(212, 175, 55, 0.2) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Ссылки (Эффект бирюзового плазмида/ЕВА) */
+.dark a, .dark .post-link {
+    color: #30c5d2 !important;
+}
+
+.dark a:hover {
+    color: #5ff2ff !important;
+    text-shadow: 0 0 8px rgba(95, 242, 255, 0.6) !important;
+}

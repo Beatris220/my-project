@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Проектная деятельность | Сайт проекта</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Проектная деятельность | Сайт проекта</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Этап 1: Инициация проекта и патентные исследования</title>
       <link>http://localhost:1313/posts/post1/</link>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post1/</guid>
-      <description>&lt;p&gt;Проведен детальный анализ рынка инди-симуляторов повседневности. На основе полученных данных сформирована концепция игры &lt;b&gt;«Симулятор раздачи листовок»&lt;/b&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Проведены патентные исследования по &lt;b&gt;ГОСТ 15.011–96&lt;/b&gt;, подтвердившие полную юридическую чистоту наших механик. Сформирован совместный репозиторий на GitHub для контроля версий кодовой базы.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Этап 3: Финализация MVP и подготовка к защите</title>
-      <link>http://localhost:1313/posts/post3/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post3/</guid>
-      <description>&lt;p&gt;Интегрированы алгоритмы QTE-ивентов для прокачки выносливости промоутера и формулы изменения параметров передвижения персонажа.&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Графические материалы этапа&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;В рамках аналитического отчета была сформирована смета фактических затрат на разработку игрового прототипа:&lt;/p&gt;&#xD;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/schema.png&#34; alt=&#34;Смета фактических затрат проекта&#34; width=&#34;500&#34;&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;hr&gt;&#xD;&#xA;&lt;h3&gt;Медиаинформация: Демонстрация геймплея MVP&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Ниже представлен видеоотчет с демонстрацией работы игровых механик (Billboard-эффект и радиальное меню взаимодействия) на движке Unity:&lt;/p&gt;&#xD;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;    &lt;video width=&#34;560&#34; height=&#34;315&#34; controls&gt;&#xD;&#xA;        &lt;source src=&#34;http://localhost:1313/gameplay.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;        Ваш браузер не поддерживает встроенное видео.&#xD;&#xA;    &lt;/video&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Проект успешно апробирован на Дне открытых дверей Московского Политеха. Наша команда полностью подготовила проект к защите!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&lt;div style=&#34;background: #f8f9fa; padding: 25px; border-radius: 12px; margin-bottom: 35px; border: 2px solid #e5e5e5; text-align: center; margin-top: 10px;&#34;&gt;
+&lt;h2 style=&#34;color: #111111 !important; margin: 0; font-size: 26px; font-weight: 800;&#34;&gt;Дневник разработки инди-игры&lt;/h2&gt;
+&lt;p style=&#34;font-style: italic; color: #555555 !important; margin-top: 8px; margin-bottom: 0; font-weight: 500; font-size: 15px;&#34;&gt;Хронологический отчет о выполнении этапов проектной деятельности команды&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 16px; line-height: 1.8; color: #222222 !important; font-weight: 500; margin-top: 15px;&#34;&gt;В рамках стартового этапа дисциплины «Проектная деятельность» был проведен детальный анализ рынка инди-симуляторов повседневности. На основе полученных данных сформирована концепция игры &lt;b&gt;«Симулятор раздачи листовок»&lt;/b&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Этап 2: Разработка архитектуры и Mixed Media</title>
       <link>http://localhost:1313/posts/post2/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post2/</guid>
-      <description>&lt;p&gt;Художественный отдел завершил моделирование стартовых локаций &#34;Квартира&#34; в стиле СССР и &#34;Метро&#34;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Программисты успешно реализовали на движке Unity базовый скрипт &lt;b&gt;Billboard&lt;/b&gt; для корректного отображения двухмерных спрайтов персонажей в трехмерном пространстве (стилистика &lt;b&gt;Mixed Media&lt;/b&gt;).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Художественный отдел завершил моделирование стартовых локаций &#34;Квартира&#34; в стиле СССР и &#34;Метро&#34;.&lt;/p&gt; 
+&lt;p&gt;Программисты успешно реализовали на движке Unity базовый скрипт &lt;b&gt;Billboard&lt;/b&gt; для корректного отображения двухмерных спрайтов персонажей в трехмерном пространстве (стилистика &lt;b&gt;Mixed Media&lt;/b&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Этап 3: Финализация MVP и подготовка к защите</title>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post3/</guid>
+      <description>&lt;p style=&#34;font-size: 16px; line-height: 1.8; color: #222222 !important; font-weight: 500; margin-top: 15px;&#34;&gt;На финальном этапе разработки были успешно интегрированы алгоритмы QTE-ивентов для прокачки выносливости промоутера и формулы динамического изменения параметров передвижения персонажа.&lt;/p&gt;
+&lt;h3 style=&#34;color: #111111 !important; font-size: 20px; font-weight: 800; margin-top: 35px; margin-bottom: 15px;&#34;&gt;Графические материалы этапа&lt;/h3&gt;
+&lt;p style=&#34;font-size: 15px; color: #444444 !important; line-height: 1.6; margin-bottom: 20px;&#34;&gt;В рамках планирования и контроля разработки проекта командой была сформирована детальная &lt;b&gt;диаграмма Ганта (календарный план-график работ)&lt;/b&gt;, отражающая все стадии создания симулятора от концепта до финализации отчетных материалов:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
