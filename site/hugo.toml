@@ -28,6 +28,7 @@ theme = "PaperMod"
 [params]
   defaultTheme = "dark"
   disableSpecial1stPost = true
+  ShowPostNavLinks = true
 
 [markup]
   [markup.goldmark]
